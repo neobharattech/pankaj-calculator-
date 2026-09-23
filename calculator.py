@@ -1,7 +1,7 @@
 import streamlit as st
 
-st.title("🧮 Pankaj calculator")
-st.write("अपना पहला पायथन ऐप बनाना सीखें!")
+st.title(" Pankaj calculator")
+
 
 num1 = st.number_input("enter your first number  (Number 1):", value=0.0)
 num2 = st.number_input("enter your second number  (Number 2):", value=0.0)
